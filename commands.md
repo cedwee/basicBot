@@ -103,7 +103,7 @@ User
 |!dclookup / !dc | | use dclookup on yourself |
 |!emoji | | a link to a list with emoji's |
 |!eta | | shows how long before you reach the booth |
-|!fb | | links to the room's Facebook page (if set in the settings) |
+|!fb | | links to the bot creators' Facebook page (if set in the settings) |
 |!ghostbuster | @user | checks if user is ghosting |
 |!gif | (message) | returns gif (from giphy) related to the tag provided. Returns a random gif if no tags are provided. |
 |!help | | links to an image to help get people started on plug |
