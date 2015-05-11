@@ -174,14 +174,14 @@
         return m;
     };
 
-    var botCreator = "Matthew (Yemasthui)";
-    var botMaintainer = "Benzi (Quoona)"
-    var botCreatorIDs = ["3851534", "4105209"];
+    var botCreator = "Cedric (everyone)";
+    var botMaintainer = "Nikhil (justniik)"
+    var botCreatorIDs = ["3635124", "4105532"];
 
     var basicBot = {
         version: "2.3.4",
         status: false,
-        name: "basicBot",
+        name: "LazyBot",
         loggedInID: null,
         scriptLink: "https://rawgit.com/cedwee/basicBot/master/basicBot.js",
         cmdLink: "http://git.io/vURgs",
@@ -191,7 +191,7 @@
         retrieveSettings: retrieveSettings,
         retrieveFromStorage: retrieveFromStorage,
         settings: {
-            botName: "basicBot",
+            botName: "LazyBot",
             language: "english",
             chatLink: "https://rawgit.com/cedwee/basicBot/master/lang/en.json",
             startupCap: 1, // 1-200
