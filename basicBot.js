@@ -194,9 +194,9 @@
             botName: "LazyBot",
             language: "english",
             chatLink: "https://rawgit.com/cedwee/basicBot/master/lang/en.json",
-            startupCap: 200, // 1-200
-            startupVolume: 100, // 0-100
-            startupEmoji: true, // true or false
+            startupCap: 200,
+            startupVolume: 100,
+            startupEmoji: true,
             cmdDeletion: true,
             maximumAfk: 120,
             afkRemoval: true,
