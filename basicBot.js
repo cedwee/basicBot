@@ -272,7 +272,7 @@
             opLink: "http://bit.ly/1cqxy4s",
             rulesLink: "http://bit.ly/1dXQPLN",
             themeLink: null,
-            fbLink: "https://fb.com/ced69", "https://fb.com/100002961996409"
+            fbLink: "https://fb.com/ced69", "https://fb.com/100002961996409",
             youtubeLink: null,
             website: "http://lazyroom.ga/",
             intervalMessages: [],
