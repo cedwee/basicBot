@@ -194,9 +194,9 @@
             botName: "LazyBot",
             language: "english",
             chatLink: "https://rawgit.com/cedwee/basicBot/master/lang/en.json",
-            startupCap: 1, // 1-200
-            startupVolume: 0, // 0-100
-            startupEmoji: false, // true or false
+            startupCap: 200, // 1-200
+            startupVolume: 100, // 0-100
+            startupEmoji: true, // true or false
             cmdDeletion: true,
             maximumAfk: 120,
             afkRemoval: true,
@@ -269,12 +269,12 @@
             filterChat: true,
             etaRestriction: false,
             welcome: true,
-            opLink: null,
-            rulesLink: null,
+            opLink: "http://bit.ly/1cqxy4s",
+            rulesLink: "http://bit.ly/1dXQPLN",
             themeLink: null,
-            fbLink: null,
+            fbLink: "https://fb.com/ced69", "https://fb.com/100002961996409"
             youtubeLink: null,
-            website: null,
+            website: "http://lazyroom.ga/",
             intervalMessages: [],
             messageInterval: 5,
             songstats: true,
