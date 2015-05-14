@@ -33,7 +33,7 @@
     "askskip": "\/me @%%NAME%%, don't ask for skips.",
     "spam": "\/me @%%NAME%%, please don't spam.",
     "roomadvertising": "\/me @%%NAME%%, don't post links to other rooms please.",
-    "adfly": "\/me @%%NAME%%, please change your autowoot program. We suggest PlugCubed: http:\/\/plugcubed.net\/",
+    "adfly": "\/me @%%NAME%%, please change your autowoot program. We suggest PlugCubed: http:\/\/bit.ly\/1A2DTy1",
     "validgiftags": "\/me [@%%NAME%%] http:\/\/media.giphy.com\/media\/%%ID%%\/giphy.gif [Tags: %%TAGS%%]",
     "invalidgiftags": "\/me [@%%NAME%%] Invalid tags, try something different. [Tags: %%TAGS%%]",
     "validgifrandom": "\/me [@%%NAME%%] http:\/\/media.giphy.com\/media\/%%ID%%\/giphy.gif [Random GIF]",
